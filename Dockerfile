@@ -9,4 +9,5 @@ RUN /usr/sbin/a2enmod \
     proxy_fcgi \
     proxy_ftp \
     proxy_html \
-    proxy_http
+    proxy_http \
+    xml2enc
